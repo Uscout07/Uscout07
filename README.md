@@ -7,7 +7,10 @@
  / /_/ / /_/ // /  / /      / ____/ ___ |/ /|  / / / /_/  
  \____/_____/___/ /_/      /_/   /_/  |_/_/ |_/ /_/ (_)   
                                                           
-engineering • systems • execution<img src="https://raw.githubusercontent.com/Uscout07/Uscout07/main/profile.png" width="160" style="border-radius: 50%; border: 2px solid #30363d;" /></div>⚡ SYSTEM STATUS: 
+engineering • systems • execution
+```
+<img src="https://raw.githubusercontent.com/Uscout07/Uscout07/main/profile.png" width="160" style="border-radius: 50%; border: 2px solid #30363d;" /></div>
+```text⚡ SYSTEM STATUS: 
 🟩 CONTRIBUTION GRIDHighlighting consistency over intensity
 ```
  <p align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Uscout07/Uscout07/output/github-contribution-grid-snake.svg" alt="Snake animation" /></p><p align="center"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DUscout07%26hide_border%3Dtrue%26theme%3Dtransparent%26stroke%3D58a6ff%26ring%3D58a6ff%26fire%3D58a6ff%26currStreakLabel%3D58a6ff" /></p>
