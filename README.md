@@ -1,25 +1,14 @@
-<div align="center">
+# 💫 About Me:
+Hi I am self taught dev and I endeavour in this field so i could be a<br>contributor in building humanities in future. I am interested in building <br>efficient tech and sway away from bloats and the bugs.
 
-```text
-    __  ______  __________     ____  ___    _   __________
-   / / / / __ \/  _/_  __/    / __ \/   |  / | / /_  __/ /
-  / / / / / / // /  / /      / /_/ / /| | /  |/ / / / / / 
- / /_/ / /_/ // /  / /      / ____/ ___ |/ /|  / / / /_/  
- \____/_____/___/ /_/      /_/   /_/  |_/_/ |_/ /_/ (_)   
-                                                          
-engineering • systems • execution
-```
-<img src="https://raw.githubusercontent.com/Uscout07/Uscout07/main/profile.png" width="160" style="border-radius: 50%; border: 2px solid #30363d;" /></div>
-```text⚡ SYSTEM STATUS: 
-🟩 CONTRIBUTION GRIDHighlighting consistency over intensity
-```
- <p align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Uscout07/Uscout07/output/github-contribution-grid-snake.svg" alt="Snake animation" /></p><p align="center"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DUscout07%26hide_border%3Dtrue%26theme%3Dtransparent%26stroke%3D58a6ff%26ring%3D58a6ff%26fire%3D58a6ff%26currStreakLabel%3D58a6ff" /></p>
- 🛠️ LANGUAGE KERNELPlaintext┌── SOURCE ANALYSIS ──────────────────────────────────────────┐
-│                                                             │
-<p align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DUscout07%26layout%3Dcompact%26hide_border%3Dtrue%26theme%3Dtransparent%26title_color%3D58a6ff%26text_color%3Dc9d1d9" /></p>Plaintext│                                                             │
-└─────────────────────────────────────────── VERBOSE: FALSE ──┘
-📂 CLONING HIGHLIGHTS...<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DUscout07%26repo%3DDSA-C%26hide_border%3Dtrue%26theme%3Dtransparent%26title_color%3D58a6ff" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DUscout07%26repo%3DComputer-Networks%26hide_border%3Dtrue%26theme%3Dtransparent%26title_color%3D58a6ff" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DUscout07%26repo%3DWeb-Projects%26hide_border%3Dtrue%26theme%3Dtransparent%26title_color%3D58a6ff" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DUscout07%26repo%3DRust-Projects%26hide_border%3Dtrue%26theme%3Dtransparent%26title_color%3D58a6ff" /></div><div align="center">Plaintext  _   _   _   _   _   _   _  
- / \ / \ / \ / \ / \ / \ / \ 
-( S | T | A | Y | _ | O | U | T )
- \_/ \_/ \_/ \_/ \_/ \_/ \_/ 
-</div>
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=uscout07&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
+![](https://nirzak-streak-stats.vercel.app/?user=uscout07&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uscout07&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
