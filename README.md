@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am self taught dev and I endeavour in this field so i could be a<br>contributor in building humanities in future. I am interested in building <br>efficient tech and sway away from bloats and the bugs.
+Hi I am self taught dev and I endeavour in this field so i could be a contributor in building humanities in future. I am interested in building efficient tech and sway away from bloats and the bugs.
 
 
 # 💻 Tech Stack:
