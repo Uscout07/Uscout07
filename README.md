@@ -8,7 +8,7 @@ Hi I am self taught dev and I endeavour in this field so i could be a contributo
 <!-- ![](https://github-readme-stats.vercel.app/api?username=uscout07&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=uscout07&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uscout07&theme=dark&hide_border=true&count_private=false&layout=compact)
-#💎 Gems (Projects that matter)
+# 💎 Gems (Projects that matter:
 🔹 IKSHAN
 
 🔗 https://github.com/Uscout07/IKSHAN
@@ -16,7 +16,7 @@ A serious build focused on solving real problems with clean and efficient design
 
 This represents how I think production-grade systems should be built.
 
-#🧪 Practice / Experiments
+# 🧪 Practice / Experiments:
 🔹 Rust File Organizer
 
 🔗 https://github.com/Uscout07/rust_file_organizer
