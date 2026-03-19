@@ -11,7 +11,7 @@ Hi I am self taught dev and I endeavour in this field so i could be a contributo
 # 💎 Gems (Projects that matter:
 🔹 IKSHAN
 
-🔗 https://github.com/Uscout07/IKSHAN
+🔗 ![](https://github.com/Uscout07/IKSHAN)<br/>
 A serious build focused on solving real problems with clean and efficient design.
 
 This represents how I think production-grade systems should be built.
